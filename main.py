@@ -1,5 +1,5 @@
-# Coded by METACHAR
-# Looking to work with other hit me up on my email @metachar1@gmail.com <--
+# Coded by BECAREFULL (YB)
+# Looking to work with other hit me up on my email @becarefullyb00@gmail.com <--
 import sys
 import datetime
 import selenium
@@ -118,7 +118,7 @@ banner = color.BOLD + color.RED +'''
  | |  | | (_| | || (__| | | |
  |_|  |_|\__,_|\__\___|_| |_|
   {0}[{1}-{2}]--> {3}V.1.0
-  {4}[{5}-{6}]--> {7}coded by Metachar
+  {4}[{5}-{6}]--> {7}code by Becarefull (YB)
   {8}[{9}-{10}]-->{11} brute-force tool                      '''.format(color.RED, color.CWHITE,color.RED,color.GREEN,color.RED, color.CWHITE,color.RED,color.GREEN,color.RED, color.CWHITE,color.RED,color.GREEN)
 
 driver = webdriver.Chrome(CHROME_DVR_DIR)
